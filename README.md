@@ -11,7 +11,7 @@ Here are some shared ideas that bridges the gap of unfamiliarity:
 - 🔭 I’m currently working on Data Science more so with Python, SQL, Tableau and PowerBI
 - 🌱 I’m currently learning Web Development, IoT and Cloud Computing
 - 👯 I’m looking to collaborate on projects and forums to better me and the others around me.
-- 🤔 I’m looking for help with any 
+- 🤔 I’m looking for and to help in projects that aim in bettering product group.
 - 💬 Ask me about how the journey is the dream.
 - 📫 How to reach me: https://www.linkedin.com/in/mcowinov
 - 😄 Pronouns: He/Him
